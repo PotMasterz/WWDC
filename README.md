@@ -1,4 +1,4 @@
-#Hear Me Out
+# Hear Me Out
 Hear Me Out is a real-time speech-to-text application designed to bridge communication gaps for the deaf and hard-of-hearing community. This project was inspired by a deaf friend I met at a science competition, whose project focused on teaching sign language. While their work was impactful, I wanted to take accessibility further by creating a tool that provides instant speech recognition, enabling more inclusive and seamless conversations.
 
 Features
